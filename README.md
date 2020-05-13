@@ -39,3 +39,12 @@ And lastly, according to our last two data visualizations, Western states seem t
 
 
 ## Business Answer Interpretation
+The data visualizations in question illustrate a rather stark contrast between Eastern and Western states: Aside from California, the number of confirmed COVID-19 cases in states like Montana and Utah are negligible (although these states should still enforce social distancing). These states may continue with possible reopening plans to stimulate their economies, while providing necessary medical PPE to Eastern States.
+
+On the East coast, particularly in the Northeast where NY, NJ, and MA are located, social distancing is a PRIORITY. Local and State governments should use their power to obtain PPE and other necessities from other states in the U.S. that aren't as affected. 
+
+However, it is difficult to make a conclusion. In the Eastern states, herd immunity may be a potential solution, with such a large number of total COVID-19 cases (also accounting for the number of COVID-19 cases that aren't accounted for because of lack of testing equipment). Perhaps these states should try to aim for herd immunity as a treatment/solution, while states in the West should be particularly wary of a resurgence in COVID-19 cases (or becoming the next epicenter). 
+
+It is also difficult to draw conclusions here because I doubt this data is fully representative of the number of confirmed COVID-19 cases. Some state and local governments don't particularly care for testing and simply would like to reopen businesses, and other states don't have enough financial resources to obtain more testing kits. 
+
+The COVID-19 pandemic has changed the scope and future of the world, and in these trying times, countries and states should work together. Each country/state's experience of the COVID-19 pandemic has been different, and it's up to people to follow social distancing guidelines, and the state/local/federal governments to protect its people by means of more testing, providing PPE, and more.
