@@ -21,3 +21,21 @@ We will be using data from the following sources:
 
 
 ![Covid 19 Cases Bubble Map](https://github.com/drewshlee/COVID19-Critical-Trends-Geospatial-Data-Analysis/blob/master/COVID19%20cases%20bubble%20map.PNG)
+
+In our first data visualization, the bubbles on the map, by size, represent the total number of confirmed COVID-19 cases. We can see that the largest bubbles are around the East coast of the United States, particularly in the tri-state area. We can attribute some of the high number of total COVID-19 cases to high population density in areas like NYC, and the amount of travel in and out of areas like New York City. Based on this bubble map, New York and New Jersey need to strictly impose social distancing guidelines and monitor the healthcare system (number of beds available, etc.) because of the sheer number of confirmed COVID-19 cases. Other East coast states should follow in a similar manner.
+
+
+![Countries and Counties with Highest Total Confirmed Cases](https://github.com/drewshlee/COVID19-Critical-Trends-Geospatial-Data-Analysis/blob/master/Countries%20and%20Counties%20with%20Highest%20Total%20Confirmed%20Cases.PNG)
+
+Wanting to take a look at more specific county/city level data, I created a bar chart of the areas, across the world, that have the highest total confirmed COVID-19 cases. Excluding some of the country level data shown, unsurprisingly, New York City and Nassau + Suffolk Counties (all of which are close to home) have some of the highest total confirmed cases of COVID-19. County and state leadership in New York can use this kind of data to A). try and convince the federal government that the U.S. needs more medical assistance, and B). that compared to other COUNTRIES, New York City and related counties have some of the highest confirmed cases of COVID-19, so everyone really needs to adhere to strict social distancing guidelines. These visualizations can be used as a persuasion tool to get people to understand that, at the time (looking back), New York and related counties were at greatest risk of suffering the extreme consequences of the COVID-19 pandemic. 
+
+
+![Density Heatmap](https://github.com/drewshlee/COVID19-Critical-Trends-Geospatial-Data-Analysis/blob/master/Density%20Heatmap.PNG)
+
+
+![Choropleth map](https://github.com/drewshlee/COVID19-Critical-Trends-Geospatial-Data-Analysis/blob/master/Choropleth%20Map.PNG)
+
+And lastly, according to our last two data visualizations, Western states seem to have less confirmed COVID-19 Cases, and the highest number of confirmed COVID-19 cases seem to be in the NY, NJ, MA, MD states, which generally have a lot of "traffic" (people going in and out for work, etc.). It is critical that the state and county governments (as well as businesses) in these states enforce social distancing guidelines so that the rate of increase of the number of confirmed COVID-19 cases slows down. 
+
+
+## Business Answer Interpretation
