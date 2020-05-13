@@ -1,4 +1,4 @@
-# Insights into COVID-19 Critical Trends
+# Insights into COVID-19 Critical Trends through Bubble Maps and Chloropeth Maps
 
 
 ## Background
