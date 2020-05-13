@@ -16,3 +16,6 @@ We will be using data from the following sources:
 - [New York Times COVID-19 Data](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)
 - [U.S. County Geospatial Data](https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json)
 
+
+## Data Answer/Analysis
+
