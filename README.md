@@ -19,3 +19,5 @@ We will be using data from the following sources:
 
 ## Data Answer/Analysis
 
+
+![Covid 19 Cases Bubble Map](https://github.com/drewshlee/COVID19-Critical-Trends-Geospatial-Data-Analysis/blob/master/COVID19%20cases%20bubble%20map.PNG)
